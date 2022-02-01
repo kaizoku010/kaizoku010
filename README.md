@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaizoku010
-- 👀 I’m interested in Frontend Development, Android development(Java/kotlin), 
+- 👀 I’m interested in Frontend Development(React), Android development(Java/kotlin), 
 - 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on https://dixon-firebrand.herokuapp.com/
