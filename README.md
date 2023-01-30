@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaizoku010
 - 👀 I’m interested in Frontend Development(React), Android development(Java/kotlin), 
 - 🌱 I’m currently learning Kubernetes
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... js projects & android projects
 - 📫 How to reach me (https://kaizoku010.github.io/firebrand)
 
 <!---
