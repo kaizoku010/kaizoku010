@@ -1,4 +1,4 @@
-- hey, watsup...I’m @kaizoku010
+- I’m @kaizoku010
 - Fullstack developer
 - Reachout (https://mdixon.vercel.app/)
 
