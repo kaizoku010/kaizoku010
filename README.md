@@ -1,4 +1,4 @@
-- I’m @kaizoku010
+- kaizoku-sama
 - Fullstack developer
 - Reachout (https://mdixon.vercel.app/)
 
